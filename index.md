@@ -1,4 +1,0 @@
-<h1>Lal's Bot</h1>
-<body>
-<script type='text/javascript' id='susi-bot-script' data-userid='57de80958a4fbee4da7dc7afe3d8273d' data-group='Knowledge' data-language='en' data-skill='<Lal's_Bot>' src='https://susi.ai/susi-chatbot.js'></script>
-</body>
